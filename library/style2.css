@@ -1,0 +1,64 @@
+table.tabelluar
+{
+	background-color:transparent;
+}
+
+table
+{
+	background-color:#FFFFFF; 
+	border-width:thin;
+	border-color:#CBC8C8;
+	font-family: Helvetica;
+}
+
+th 
+{
+	height : 50px;
+	text-align: center;
+	font-weight: 700;
+	font-size:15px;
+	background-color:#58CD4B;
+}
+
+td
+{
+	height : 50px;
+	font-size:12px;
+	font-family:tahoma,arial;
+}
+
+.judul
+{
+	font-family: Arial Black;
+	color:#000000;
+	font-size:18px;		
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+	text-align: center;
+	/*
+	
+	font-weight: 400;
+	*/
+}
+
+.keterangan
+{
+	font-family:Tahoma;
+	color:#3D3D3D;
+	font-size:12px;
+}
+
+.kecilmiring
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:x-small;
+	font-style:italic;
+}
+.kecilmerah
+{
+	font-family::Verdana, Arial, Helvetica, sans-serif;
+	font-size:small;
+	color:red !important;
+}
